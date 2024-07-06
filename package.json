@@ -3,6 +3,7 @@
   "displayName": "realcoder",
   "description": "real coder choice scheme",
   "version": "0.0.1",
+  "publisher": "stupidsherlock",
   "engines": {
     "vscode": "^1.91.0"
   },
