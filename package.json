@@ -6,6 +6,17 @@
   "engines": {
     "vscode": "^1.91.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shadowasphodel2919/realcoder-theme"
+  },
+  "keywords": [
+    "theme",
+    "coding",
+    "real coder",
+    "programming",
+    "dark"
+  ],
   "categories": [
     "Themes"
   ],
